@@ -1,0 +1,22 @@
+bệnh án: idBV, idBN, idBS, kết quả
+	khám lâm sàng: 
+		khám tổng quát: Nhiệt độ, Nhịp tim, Huyết áp, Nhịp thở, Cân nặng, Chiều cao
+		khám chi tiết các cơ quan: 
+			khám đầu cổ: mắt, tai, mũi, họng, tuyến giáp, hạch
+			khám phổi: kiểu thở, âm phổi (âm thanh khi thở), mức độ giãn nở của lồng ngực, SpO2, v.v
+			khám tim mạch: tần số tim, tính chất nhịp tim, huyết áp tâm thu, huyết áp tâm trương, chỉ số huyết áp trung bình, âm tim (tiếng tim đập), điện tâm đồ, dấu hiệu tĩnh mạch cổ nối, dấu hiệu phù ngoại biên, v.v
+			khám xương khớp: vị trí đau, mức độ đau, biên độ vận động, sưng bầm, biến dạng chi, tình trạng cơ, huyết động chi
+	khám cận lâm sàng:
+		xét nghiệm máu: 
+			Công thức máu toàn phần: Hồng cầu, Hemoglobin, Hematocrit, Số lượng bạch cầu, Số lượng tiểu cầu, Chỉ số trung bình của hồng cầu, Chỉ số trung bình của hemoglobin trong hồng cầu, Chỉ số nồng độ hemoglobin trung bình trong hồng cầu, Độ phân tán của kích thước hồng cầu
+			Sinh hóa máu: Glucose, Cholesterol, Low-Density Lipoprotein, High-Density Lipoprotein, Triglycerides, Alanine Aminotransferase, Aspartate Aminotransferase, Bilirubin, Albumin, Total Protein, Creatinine, Blood Urea Nitrogen, Sodium, Potassium, Chloride, Bicarbonate, Calcium, Phosphorus, Magnesium, Thyroid-Stimulating Hormone, T3, T4, Uric Acid, Lactate Dehydrogenase, C-Reactive Protein
+			Xét nghiệm đông máu: Thời gian Prothrombin, Thời gian Thromboplastin từng phần, International Normalized Ratio, Fibrinogen, D-Dimer, Platelet Count, Thời gian Tăng Cường Thrombin, 
+			Xét nghiệm miễn dịch: Antigen, C-Reactive Protein, Sedimentation Rate, HLA Typing, Antinuclear Antibody, Rheumatoid Factor, Anti-DNA Antibodies, Anti-Smith Antibodies, Complement Levels (C3, C4), Immunoglobulin Levels, B-Lymphocyte Count, Cytokines
+				Antibody: IgG, IgM, IgE, IgA
+				T-Lymphocyte Subsets: CD4+ T-cells, CD8+ T-cells
+			Xét nghiệm hocmoon: Thyroid-Stimulating Hormone, Triiodothyronine, Thyroxine, Free T3 (T3 tự do) và Free T4 (T4 tự do), Thyroid Antibodies, Testosterone, Progesterone, Estrogen, Luteinizing Hormone, Follicle-Stimulating Hormone, Cortisol, Adrenaline, Norepinephrine, Insulin, Growth Hormone, Prolactin, Vitamin D
+		xét nghiệm nước tiểu: Color, Clarity, pH, Specific Gravity, Glucose, Bilirubin, Protein, Urobilinogen, Hemoglobin, Keton, Nitrite, Leukocyte Esterase, Crystals, Crystals, Mucus
+			Cells: Erythrocytes, Leukocytes, Epithelium Cells
+	xquang & siêu âm: img, chuẩn đoán, name, mota
+	thuoc: ten, hdsd, dvt, sl
+			

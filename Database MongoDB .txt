@@ -1,0 +1,9 @@
+Database: MongoDB 
+
+Hospital: name, user
+Brand: name, diachi, idHospital
+Doctor: name, cccd, birthday, phone, email, idHospital, sex
+Patient: name cccd, birthday, phone, email, sex, sobh
+Login: user, pass, role
+Medical-record: idDoctor, idHopital, idPatient, diagnosis, result
+	test: result, 
